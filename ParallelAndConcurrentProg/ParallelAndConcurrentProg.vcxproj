@@ -157,6 +157,8 @@
     <ClInclude Include="Headers\atomicThread.h" />
     <ClInclude Include="Headers\DetachThread.h" />
     <ClInclude Include="Headers\MutexThread.h" />
+    <ClInclude Include="Headers\RecursiveMutexThread.h" />
+    <ClInclude Include="Headers\SharedMutexThread.h" />
     <ClInclude Include="Headers\threadLifeCycle.h" />
     <ClInclude Include="Headers\Thread_init.h" />
   </ItemGroup>

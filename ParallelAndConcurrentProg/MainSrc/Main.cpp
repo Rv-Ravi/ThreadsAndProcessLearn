@@ -1,4 +1,4 @@
-#include "../Headers/atomicThread.h"
+#include "../Headers/SharedMutexThread.h"
 
 
 
@@ -7,5 +7,5 @@
 
 int main() {
 
-	main_5();
+	main_7();
 }

@@ -35,5 +35,11 @@
     <ClInclude Include="Headers\atomicThread.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Headers\RecursiveMutexThread.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SharedMutexThread.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
